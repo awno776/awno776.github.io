@@ -1,8 +1,6 @@
 # Project 0
 
 Web Programming with Python and JavaScript
-# Project 0
-
 My project0 is a small website which includes some activities that we all can partake in during the COVID-19 quarantine.
 
 It contains 4 different HTML files: [index.html]( https://github.com/awno776/project0-1st/blob/master/index.html)(web), [recipes.html]( https://github.com/awno776/project0-1st/blob/master/recipes.html)(web), [books.html]( https://github.com/awno776/project0-1st/blob/master/books.html)(web) and [exercises.html]( https://github.com/awno776/project0-1st/blob/master/exercises.html)(web).
