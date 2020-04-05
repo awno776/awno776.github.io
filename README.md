@@ -3,7 +3,7 @@
 Web Programming with Python and JavaScript
 My project0 is a small website which includes some activities that we all can partake in during the COVID-19 quarantine.
 
-It contains 4 different HTML files: [index.html]( https://github.com/awno776/project0-1st/blob/master/index.html)(web), [recipes.html]( https://github.com/awno776/project0-1st/blob/master/recipes.html)(web), [books.html]( https://github.com/awno776/project0-1st/blob/master/books.html)(web) and [exercises.html]( https://github.com/awno776/project0-1st/blob/master/exercises.html)(web).
+It contains 4 different HTML files: [index.html](https://awno776.github.io/cs50wp0/index.html)(web), [recipes.html](https://awno776.github.io/cs50wp0/recipes.html)(web), [books.html]( https://awno776.github.io/cs50wp0/books.html)(web) and [exercises.html]( https://awno776.github.io/cs50wp0/exercises.html)(web).
 
 ## Requirements
 
